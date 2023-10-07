@@ -27,7 +27,7 @@ My research interest includes . I have published more than 100 papers at the top
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Modulating electronic properties of β-Ga2O3 by strain engineering]([https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf](https://www.sciencedirect.com/science/article/pii/S221137972300709X))
+[Modulating electronic properties of β-Ga2O3 by strain engineering](https://www.sciencedirect.com/science/article/pii/S221137972300709X)
 
 **Ruijia Zhang**, Min Li, Gai Wu, Lijie Li, Kang Liang & Wei Shen.
 
@@ -39,7 +39,7 @@ My research interest includes . I have published more than 100 papers at the top
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- [Modulating electronic properties of β-Ga2O3 by strain engineering](https://github.com), **Ruijia Zhang**, Min Li, Gai Wu, Lijie Li, Kang Liang & Wei Shen, **Results in Physics 2023**
 
 # 🎖 Honors and Awards
 - *2022.09* The First Prize, the 16th China Intelligent Manufacturing Challenge
