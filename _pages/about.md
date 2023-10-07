@@ -22,29 +22,78 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet 
 My research interest includes . I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 
-# 📝 Publications 
+# 📝 Projects
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Robotic Soft Hand]
+08/2023-present
+Student Researcher, supervised by Prof. Miao Li, Advanced Robotics and Intelligent Control Laboratory, WHU
+**Ruijia Zhang**, Zhenyu Nie, Fuqiang Zhao.
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Modulating electronic properties of β-Ga2O3 by strain engineering](https://www.sciencedirect.com/science/article/pii/S221137972300709X)
-
-**Ruijia Zhang**, Min Li, Gai Wu, Lijie Li, Kang Liang & Wei Shen.
-
+09/2021-06/2022
+Team Leader, Intelligent Manufacturing Lab, WHU
+**Ruijia Zhang**, Wenke Zhou, Zibin Nian, Ning Luo, Xiaoya He.
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Strain manipulation can induce an indirect-direct bandgap transition of β-Ga2O3.
-- The bandgap changes of β-Ga2O3 are calculated under strain engineering.
-- The electron effective mass of β-Ga2O3 generally features a negative correlation with strain.
-- The anisotropy of electron effective mass of β-Ga2O3 shows an upward trend in fluctuations under tension or compression.
+- Robotic fish driven by double-joint coupling mechanism.
+
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Heat-Powered Vehicle]
+09/2020-09/2021
+Team Leader, Intelligent Manufacturing Lab, WHU
+**Ruijia Zhang**, Wenke Zhou, Zibin Nian
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Robotic fish driven by double-joint coupling mechanism.
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Smart Wardrobe ——Klotski]
+10/2021-11/2022
+Team Member, Intelligent Manufacturing Lab, WHU
+**Ruijia Zhang**, Zhihang Wei, Jingrun Cai, Haoming Chen, Xinyitian
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Robotic fish driven by double-joint coupling mechanism.
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Modulating Electronic Properties of β-Ga2O3 by Strain Engineering]
+06/2022-02/2023
+Student Researcher, supervised by Prof. Wei Shen, The Institute of Technological Sciences, WHU
+**Ruijia Zhang**, Min Li, Gai Wu, Lijie Li, Kang Liang & Wei Shen.
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Robotic fish driven by double-joint coupling mechanism.
+
+</div>
+</div>
+
+# 📝 Publications and Patents
 - [Modulating electronic properties of β-Ga2O3 by strain engineering](https://www.sciencedirect.com/science/article/pii/S221137972300709X), **Ruijia Zhang**, Min Li, Gai Wu, Lijie Li, Kang Liang & Wei Shen, **Results in Physics 2023**
 - [Design and research of intermittent transmission mechanism based on curved groove](https://kns.cnki.net/kcms2/article/abstract?v=PhqKDHt8vRAb-KGL_-szYL1TNuSMiQRseq943SVNlzoJuQaZ6Dz6FWG7PV7rJgRKtFP3UD9b1_SmIOzUQAi811HN5piyRHNKNNgTL8VqtUGEQ9sE0dctJc_YNEiMwORZct1acnQ7rFXoQN2Vq8xu2itsJswRA4nJ&uniplatform=NZKPT&language=CHS), Min Li, Xiaoqiao Chen, Fenglian Song, Wenke Zhou & **Ruijia Zhang**, **Journal of Wuhan University: Engineering Science Edition 2022**
-- 
-# 📝 Patents
-- [Tail fin propelled autonomous swimming bionic robotic fish based on composite connecting rod mechanism](https://worldwide.espacenet.com/patent/search/family/081678703/publication/CN114537629A?q=CN%20114537629), **Ruijia Zhang**, Min Li, Wenke Zhou, Zibin Nian, Ning Luo & Xiaoya He. 2023
-- [Heat energy driving vehicle supported by vertical plate](https://worldwide.espacenet.com/patent/search/family/079806938/publication/CN215513213U?q=CN%20215513213), **Ruijia Zhang**, Min Li, Xusheng Cheng & Kailang She. 2022
+- [Tail fin propelled autonomous swimming bionic robotic fish based on composite connecting rod mechanism](https://worldwide.espacenet.com/patent/search/family/081678703/publication/CN114537629A?q=CN%20114537629), **Ruijia Zhang**, Min Li, Wenke Zhou, Zibin Nian, Ning Luo & Xiaoya He. CN 114537629 A, 2023
+- [Heat energy driving vehicle supported by vertical plate](https://worldwide.espacenet.com/patent/search/family/079806938/publication/CN215513213U?q=CN%20215513213), **Ruijia Zhang**, Min Li, Xusheng Cheng & Kailang She. CN 215513213 U, 2022
 
 # 🎖 Honors and Awards
 - *2022.09* The First Prize, the 16th China Intelligent Manufacturing Challenge
