@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "husky1900"
+  github           : "husky1900"
   google_plus      :
   keybase          :
   instagram        :
@@ -55,7 +55,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          :
+  youtube          : "https://www.youtube.com/@RuijiaZhang-jd6ol/featured"
   wikipedia        :
 
 
