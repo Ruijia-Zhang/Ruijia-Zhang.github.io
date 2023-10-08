@@ -29,9 +29,7 @@ My research interest includes . I have published more than 100 papers at the top
 
 [Robotic Soft Hand]
 
-08/2023-present
-
-Student Researcher, supervised by Prof. Miao Li, Advanced Robotics and Intelligent Control Laboratory, WHU
+08/2023-present, Student Researcher, supervised by Prof. Miao Li, WHU
 
 **Ruijia Zhang**, Zhenyu Nie, Fuqiang Zhao.
 
@@ -47,9 +45,7 @@ Student Researcher, supervised by Prof. Miao Li, Advanced Robotics and Intellige
 
 [Modulating Electronic Properties of β-Ga2O3 by Strain Engineering](https://worldwide.espacenet.com/patent/search/family/081678703/publication/CN114537629A?q=CN%20114537629)
 
-06/2022-02/2023
-
-Student Researcher, supervised by Prof. Wei Shen, The Institute of Technological Sciences, WHU
+06/2022-02/2023, Student Researcher, supervised by Prof. Wei Shen, WHU
 
 **Ruijia Zhang**, Min Li, Gai Wu, Lijie Li, Kang Liang & Wei Shen.
 
@@ -65,9 +61,7 @@ Student Researcher, supervised by Prof. Wei Shen, The Institute of Technological
 
 [Bionic Robot Fish](https://www.sciencedirect.com/science/article/pii/S221137972300709X)
 
-09/2021-06/2022
-
-Team Leader, Intelligent Manufacturing Lab, WHU
+09/2021-06/2022, Team Leader, Intelligent Manufacturing Lab, WHU
 
 **Ruijia Zhang**, Wenke Zhou, Zibin Nian, Ning Luo, Xiaoya He.
 
@@ -83,9 +77,7 @@ Team Leader, Intelligent Manufacturing Lab, WHU
 
 [Heat-Powered Vehicle](https://worldwide.espacenet.com/patent/search/family/079806938/publication/CN215513213U?q=CN%20215513213)
 
-09/2020-09/2021
-
-Team Leader, Intelligent Manufacturing Lab, WHU
+09/2020-09/2021, Team Leader, Intelligent Manufacturing Lab, WHU
 
 **Ruijia Zhang**, Wenke Zhou, Zibin Nian
 
@@ -98,29 +90,9 @@ Team Leader, Intelligent Manufacturing Lab, WHU
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/wardrobe.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Heat-Powered Vehicle](https://worldwide.espacenet.com/patent/search/family/079806938/publication/CN215513213U?q=CN%20215513213)
-
-09/2020-09/2021
-
-Team Leader, Intelligent Manufacturing Lab, WHU
-
-**Ruijia Zhang**, Wenke Zhou, Zibin Nian
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Robotic fish driven by double-joint coupling mechanism.
-
-</div>
-</div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/wardrobe.png' alt="sym" width="100%"></div></div>wardrobe
-<div class='paper-box-text' markdown="1">
-
 [Smart Wardrobe ——Klotski](http://openir.whu.edu.cn/AchievementDetail/VIP_a39cbc17-86b7-4185-87f8-ff844334f6c9)
 
-10/2021-11/2022
-
-Team Member, Intelligent Manufacturing Lab, WHU
+10/2021-11/2022, Team Member, Intelligent Manufacturing Lab, WHU
 
 **Ruijia Zhang**, Zhihang Wei, Jingrun Cai, Haoming Chen, Xinyitian
 
@@ -129,6 +101,8 @@ Team Member, Intelligent Manufacturing Lab, WHU
 
 </div>
 </div>
+
+
 
 # 📝 Publications and Patents
 - [Modulating electronic properties of β-Ga2O3 by strain engineering](https://www.sciencedirect.com/science/article/pii/S221137972300709X), **Ruijia Zhang**, Min Li, Gai Wu, Lijie Li, Kang Liang & Wei Shen, **Results in Physics 2023**
