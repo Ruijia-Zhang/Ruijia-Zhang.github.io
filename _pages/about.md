@@ -120,14 +120,15 @@ Team Member, Intelligent Manufacturing Lab, WHU
 - [Heat energy driving vehicle supported by vertical plate](https://worldwide.espacenet.com/patent/search/family/079806938/publication/CN215513213U?q=CN%20215513213), **Ruijia Zhang**, Min Li, Xusheng Cheng & Kailang She. CN 215513213 U, 2022
 
 # 🎖 Honors and Awards
+- *2023.04* The First Prize, Inno Innovation Achievement Award, WHU (6 in the whole school)
+- *2022.10* National Scholarship (Undergraduate) (Top 1%) 
 - *2022.09* The First Prize, the 16th China Intelligent Manufacturing Challenge
 - *2022.07* National Second Prize, the 5th National College Intelligent Robot Creative Competition
 - *2022.05* The First Prize, the 10th National College Mechanical Innovation Design Competition
-- *2021.11* National Gold Award, the 7th Chinese Engineering and Innovation Competition
-- *2019.09* The Second Prize, the 36th Chinese Physics Olympiad
 - *2022.04* “Top 10 students”, School of Power and Mechanical Engineering, WHU (10/1200)
-- *2023.04* The First Prize, Inno Innovation Achievement Award, WHU (6 in the whole school)
-- *2021.10* & *2022.10* National Scholarship (Undergraduate) (Top 1%) 
+- *2021.11* National Gold Award, the 7th Chinese Engineering and Innovation Competition
+- *2021.10* National Scholarship (Undergraduate) (Top 1%) 
+- *2019.09* The Second Prize, the 36th Chinese Physics Olympiad
 
 # 📖 Educations
 - *2020.06 - 2024.09*, Undergraduate, Wuhan University, Hubei 
