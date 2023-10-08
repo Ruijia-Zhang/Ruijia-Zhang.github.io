@@ -114,7 +114,7 @@ Team Member, Intelligent Manufacturing Lab, WHU
 </div>
 
 # 📝 Publications and Patents
-- [Modulating electronic properties of β-Ga2O3 by strain engineering](https://www.sciencedirect.com/science/article/pii/S221137972300709X), **Ruijia Zhang**, Min Li, Gai Wu, Lijie Li, Kang Liang & Wei Shen, **Results in Physics 2023**
+- <div class="badge">Results in Physics 2023</div> [Modulating electronic properties of β-Ga2O3 by strain engineering](https://www.sciencedirect.com/science/article/pii/S221137972300709X), **Ruijia Zhang**, Min Li, Gai Wu, Lijie Li, Kang Liang & Wei Shen, **Results in Physics 2023**
 - [Design and research of intermittent transmission mechanism based on curved groove](https://kns.cnki.net/kcms2/article/abstract?v=PhqKDHt8vRAb-KGL_-szYL1TNuSMiQRseq943SVNlzoJuQaZ6Dz6FWG7PV7rJgRKtFP3UD9b1_SmIOzUQAi811HN5piyRHNKNNgTL8VqtUGEQ9sE0dctJc_YNEiMwORZct1acnQ7rFXoQN2Vq8xu2itsJswRA4nJ&uniplatform=NZKPT&language=CHS), Min Li, Xiaoqiao Chen, Fenglian Song, Wenke Zhou & **Ruijia Zhang**, **Journal of Wuhan University: Engineering Science Edition 2022**
 - [Tail fin propelled autonomous swimming bionic robotic fish based on composite connecting rod mechanism](https://worldwide.espacenet.com/patent/search/family/081678703/publication/CN114537629A?q=CN%20114537629), **Ruijia Zhang**, Min Li, Wenke Zhou, Zibin Nian, Ning Luo & Xiaoya He. CN 114537629 A, 2023
 - [Heat energy driving vehicle supported by vertical plate](https://worldwide.espacenet.com/patent/search/family/079806938/publication/CN215513213U?q=CN%20215513213), **Ruijia Zhang**, Min Li, Xusheng Cheng & Kailang She. CN 215513213 U, 2022
