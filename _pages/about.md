@@ -95,6 +95,23 @@ Team Leader, Intelligent Manufacturing Lab, WHU
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/wardrobe.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Heat-Powered Vehicle](https://worldwide.espacenet.com/patent/search/family/079806938/publication/CN215513213U?q=CN%20215513213)
+
+09/2020-09/2021
+
+Team Leader, Intelligent Manufacturing Lab, WHU
+
+**Ruijia Zhang**, Wenke Zhou, Zibin Nian
+
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Robotic fish driven by double-joint coupling mechanism.
+
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/wardrobe.png' alt="sym" width="100%"></div></div>wardrobe
 <div class='paper-box-text' markdown="1">
