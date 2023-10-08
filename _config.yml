@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Ruijia Zhang"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
+description              : "Bachelor of Mechanical Engineering, Wuhan Universit. Focusing on robotic design and control"
 repository               : "husky1900/rheazhang.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Ruijia Zhang"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Bachelor of Mechanical Engineering, Wuhan University"
+  bio              : "Undergraduate"
   location         : "Hubei, China"
   employer         :
   pubmed           : 
