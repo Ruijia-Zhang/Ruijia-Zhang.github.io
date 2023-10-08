@@ -37,6 +37,21 @@ Student Researcher, supervised by Prof. Miao Li, Advanced Robotics and Intellige
 </div>
 </div>
 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Modulating Electronic Properties of β-Ga2O3 by Strain Engineering](https://worldwide.espacenet.com/patent/search/family/081678703/publication/CN114537629A?q=CN%20114537629)
+06/2022-02/2023
+Student Researcher, supervised by Prof. Wei Shen, The Institute of Technological Sciences, WHU
+**Ruijia Zhang**, Min Li, Gai Wu, Lijie Li, Kang Liang & Wei Shen.
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Robotic fish driven by double-joint coupling mechanism.
+
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/Fish robot.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -50,10 +65,11 @@ Team Leader, Intelligent Manufacturing Lab, WHU
 </div>
 </div>
 
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/Car.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Heat-Powered Vehicle]
+[Heat-Powered Vehicle](https://worldwide.espacenet.com/patent/search/family/079806938/publication/CN215513213U?q=CN%20215513213)
 09/2020-09/2021
 Team Leader, Intelligent Manufacturing Lab, WHU
 **Ruijia Zhang**, Wenke Zhou, Zibin Nian
@@ -63,26 +79,14 @@ Team Leader, Intelligent Manufacturing Lab, WHU
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/wardrobe.png' alt="sym" width="100%"></div></div>wardrobe
 <div class='paper-box-text' markdown="1">
 
-[Smart Wardrobe ——Klotski]
+[Smart Wardrobe ——Klotski](http://openir.whu.edu.cn/AchievementDetail/VIP_a39cbc17-86b7-4185-87f8-ff844334f6c9)
 10/2021-11/2022
 Team Member, Intelligent Manufacturing Lab, WHU
 **Ruijia Zhang**, Zhihang Wei, Jingrun Cai, Haoming Chen, Xinyitian
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Robotic fish driven by double-joint coupling mechanism.
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Modulating Electronic Properties of β-Ga2O3 by Strain Engineering]
-06/2022-02/2023
-Student Researcher, supervised by Prof. Wei Shen, The Institute of Technological Sciences, WHU
-**Ruijia Zhang**, Min Li, Gai Wu, Lijie Li, Kang Liang & Wei Shen.
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Robotic fish driven by double-joint coupling mechanism.
 
