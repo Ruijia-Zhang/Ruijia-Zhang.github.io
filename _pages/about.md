@@ -16,7 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-# 🤵🏻 Projects
+# 🤵🏻 About Me
 I'm now pursuing a Bachelor's degree in Mechanical Engineering at the School of Power and Mechanical, Wuhan University(武汉大学动力与机械学院). Presently, I'm working on a research project supervised by [Prof. Miao Li(李淼)](https://miaoli.github.io/). 
 
 I won the National Scholarship in 2021 and 2022 and was selected as one of the "Top 10 Students" in the School of Power and Mechanical.
