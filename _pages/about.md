@@ -55,7 +55,7 @@ You can find my CV here: [CV](../Resume_RuijiaZhang.pdf).
 </div>
 
 
-<div class='paper-box'><div class='paper-box-video'><div><div class="badge">CVPR 2016</div><video src="../videos/fish robot/Rendering.png"></video></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><video src="../videos/fish robot/Rendering.png"></video></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Bionic Robot Fish](https://worldwide.espacenet.com/patent/search/family/081678703/publication/CN114537629A?q=CN%20114537629)
