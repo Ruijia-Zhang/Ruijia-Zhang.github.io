@@ -103,17 +103,18 @@ Wenke Zhou, Zibin Nian
 [Smart Wardrobe ——Klotski](http://openir.whu.edu.cn/AchievementDetail/VIP_a39cbc17-86b7-4185-87f8-ff844334f6c9)
 
 10/2021-11/2022
-
-Team Member, supervised by Prof. Min Li, WHU
+Team Leader, supervised by Prof. Min Li, WHU
 
 **Ruijia Zhang**, Zhihang Wei, Jingrun Cai, Haoming Chen, Xinyitian
 
 [**Project**](https://youtu.be/--K_LBozzOY)
 - I improved a two-way loop procedure of the smart wardrobe based on PLC program control.
 - I optimized the intermittent transmission mechanism based on Adams dynamical simulation and SolidWorks Topology to eliminate the flexible impact and achieve the lightweight design of the groove wheels.
+
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/wardrobe.png' alt="sym" width="100%"></div></div><div class='paper-box-text' markdown="1">images/wardrobe
 
 
 # 📝 Publications and Patents
