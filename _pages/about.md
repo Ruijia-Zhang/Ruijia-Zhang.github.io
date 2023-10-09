@@ -30,7 +30,9 @@ You can find my CV here: [CV](../Resume_RuijiaZhang.pdf).
 
 [Robotic Soft Hand]
 
-08/2023-present, Student Researcher, supervised by [Prof. Miao Li(李淼)](https://miaoli.github.io/), WHU
+08/2023-present
+
+Student Researcher, supervised by [Prof. Miao Li(李淼)](https://miaoli.github.io/), WHU
 
 **Ruijia Zhang**, Zhenyu Nie, Fuqiang Zhao.
 
@@ -46,7 +48,9 @@ You can find my CV here: [CV](../Resume_RuijiaZhang.pdf).
 
 [Modulating Electronic Properties of β-Ga2O3 by Strain Engineering](https://www.sciencedirect.com/science/article/pii/S221137972300709X)
 
-06/2022-02/2023, Student Researcher, supervised by [Prof. Wei Shen](https://technology.whu.edu.cn/info/1016/1914.htm), WHU
+06/2022-02/2023
+
+Student Researcher, supervised by [Prof. Wei Shen](https://technology.whu.edu.cn/info/1016/1914.htm), WHU
 
 **Ruijia Zhang**, Min Li, Gai Wu, Lijie Li, Kang Liang & Wei Shen.
 
@@ -62,7 +66,9 @@ You can find my CV here: [CV](../Resume_RuijiaZhang.pdf).
 
 [Bionic Robot Fish](https://worldwide.espacenet.com/patent/search/family/081678703/publication/CN114537629A?q=CN%20114537629)
 
-09/2021-06/2022, Team Leader, supervised by Prof. Min Li, WHU
+09/2021-06/2022
+
+Team Leader, supervised by Prof. Min Li, WHU
 
 **Ruijia Zhang**, Wenke Zhou, Zibin Nian, Ning Luo, Xiaoya He.
 
@@ -80,7 +86,9 @@ You can find my CV here: [CV](../Resume_RuijiaZhang.pdf).
 
 09/2020-09/2021, Team Leader, supervised by Prof. Min Li, WHU
 
-**Ruijia Zhang**, Wenke Zhou, Zibin Nian
+**Ruijia Zhang**
+
+Wenke Zhou, Zibin Nian
 
 [**Project**](https://youtu.be/gkrrsqVv6eA)
 - I designed and produced an integrated thermodynamic vehicle powered by the Stirling engine and completed the closed-loop obstacle avoidance trajectory with a purely mechanical structure. Through fine-tuning mechanisms and CNC machining, the trajectory accuracy is improved by 50%.
@@ -95,7 +103,9 @@ You can find my CV here: [CV](../Resume_RuijiaZhang.pdf).
 
 [Smart Wardrobe ——Klotski](http://openir.whu.edu.cn/AchievementDetail/VIP_a39cbc17-86b7-4185-87f8-ff844334f6c9)
 
-10/2021-11/2022, Team Member, supervised by Prof. Min Li, WHU
+10/2021-11/2022
+
+Team Member, supervised by Prof. Min Li, WHU
 
 **Ruijia Zhang**, Zhihang Wei, Jingrun Cai, Haoming Chen, Xinyitian
 
