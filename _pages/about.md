@@ -87,7 +87,7 @@ Team Leader, supervised by Prof. Min Li, WHU
 
 Team Leader, supervised by Prof. Min Li, WHU
 
-**Ruijia Zhang**，Wenke Zhou, Zibin Nian
+**Ruijia Zhang**, Wenke Zhou, Zibin Nian
 
 [**Project**](https://youtu.be/gkrrsqVv6eA)
 - I designed and produced an integrated thermodynamic vehicle powered by the Stirling engine and completed the closed-loop obstacle avoidance trajectory with a purely mechanical structure. Through fine-tuning mechanisms and CNC machining, the trajectory accuracy is improved by 50%.
@@ -97,7 +97,7 @@ Team Leader, supervised by Prof. Min Li, WHU
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/wardrobe.png' alt="sym" width="100%"></div></div><div class='paper-box-text' markdown="1">images/wardrobe
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/wardrobe.png' alt="sym" width="100%"></div></div><div class='paper-box-text' markdown="1">
 
 [Smart Wardrobe ——Klotski](http://openir.whu.edu.cn/AchievementDetail/VIP_a39cbc17-86b7-4185-87f8-ff844334f6c9)
 
