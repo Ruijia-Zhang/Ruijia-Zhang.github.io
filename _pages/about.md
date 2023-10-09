@@ -16,14 +16,25 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-I'm now pursuing a Bachelor's degree in Mechanical Engineering at the School of Power and Mechanical, Wuhan University(武汉大学动力与机械学院). Presently, I'm working on a research project supervised by [Prof. Miao Li(李淼)](https://miaoli.github.io/).
-My research interest has shifted from First-principles calculations in semiconductors to **Bio-inspired robot design, locomotion, robotic grasping and manipulation**. 
+I'm now pursuing a Bachelor's degree in Mechanical Engineering at the School of Power and Mechanical, Wuhan University(武汉大学动力与机械学院). Presently, I'm working on a research project supervised by [Prof. Miao Li(李淼)](https://miaoli.github.io/). I won the National Scholarship in 2021 and 2022 and was selected as one of the "top 10 students" in the School of Power and Mechanical.
 
-I won the National Scholarship in 2021&2022 and was selected as one of the "top 10 students" in the School of Power and Mechanical.
+My research interest has shifted from First-principles calculations in semiconductors to **Bio-inspired robot design, locomotion, robotic grasping, and manipulation**. 
 You can find my [CV](../Resume_RuijiaZhang.pdf) here.
+
 # 📝 Projects
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/Soft Hand.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div>
+<iframe 
+src="https://youtu.be/s3UWrpGMP50" 
+scrolling="no" 
+border="0" 
+frameborder="no" 
+framespacing="0" 
+allowfullscreen="true" 
+height=600 
+width=800> 
+</iframe>
+</div></div>
 <div class='paper-box-text' markdown="1">
 
 [Robotic Soft Hand]
