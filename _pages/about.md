@@ -102,6 +102,7 @@ Team Leader, supervised by Prof. Min Li, WHU
 [Smart Wardrobe ——Klotski](http://openir.whu.edu.cn/AchievementDetail/VIP_a39cbc17-86b7-4185-87f8-ff844334f6c9)
 
 10/2021-11/2022
+
 Team Leader, supervised by Prof. Min Li, WHU
 
 **Ruijia Zhang**, Zhihang Wei, Jingrun Cai, Haoming Chen, Xinyitian
