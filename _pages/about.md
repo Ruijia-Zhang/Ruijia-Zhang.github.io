@@ -29,7 +29,7 @@ You can find my [CV](../Resume_RuijiaZhang.pdf) here.
 
 [Robotic Soft Hand]
 
-08/2023-present, Student Researcher, supervised by Prof. Miao Li, WHU
+08/2023-present, Student Researcher, supervised by [Prof. Miao Li(李淼)](https://miaoli.github.io/), WHU
 
 **Ruijia Zhang**, Zhenyu Nie, Fuqiang Zhao.
 
@@ -45,7 +45,7 @@ You can find my [CV](../Resume_RuijiaZhang.pdf) here.
 
 [Modulating Electronic Properties of β-Ga2O3 by Strain Engineering](https://www.sciencedirect.com/science/article/pii/S221137972300709X)
 
-06/2022-02/2023, Student Researcher, supervised by Prof. Wei Shen, WHU
+06/2022-02/2023, Student Researcher, supervised by [Prof. Wei Shen](https://technology.whu.edu.cn/info/1016/1914.htm), WHU
 
 **Ruijia Zhang**, Min Li, Gai Wu, Lijie Li, Kang Liang & Wei Shen.
 
