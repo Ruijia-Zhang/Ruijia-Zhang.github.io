@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Ruijia Zhang"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Undergraduate<br>Bachelor of Mechanical Engineering<br>Wuhan Universit, School of Power and Mechanical Engineering"
+  bio              : "Major in Mechanical Engineering<br>Wuhan Universit, School of Power and Mechanical Engineering"
   location         : "Hubei, China"
   employer         :
   pubmed           : 
@@ -55,7 +55,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          : "https://www.youtube.com/channel/UCdz5I3UeJtZ3RjP8MaaAoWw"
+  youtube          : #"https://www.youtube.com/channel/UCdz5I3UeJtZ3RjP8MaaAoWw"
   wikipedia        :
 
 
