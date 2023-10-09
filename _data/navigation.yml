@@ -4,7 +4,7 @@ main:
     url: "/#About-Me"
 
   - title: "Publications"
-    url: "/#-Publications and Patents"
+    url: "/#-Publications-and-Patents"
 
   - title: "Honors and Awards"
     url: "/#-Honors-and-Awards"
@@ -12,5 +12,5 @@ main:
   - title: "Educations"
     url: "/#-Educations"
 
-  - title: "Internships"
-    url: "/#-Internships"
+  - title: "Teaching Assistant"
+    url: "/#-Teaching Assistant"
