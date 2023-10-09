@@ -16,9 +16,11 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-I'm now pursuing a Bachelor's degree in Mechanical Engineering at the School of Power and Mechanical, Wuhan University(武汉大学动力与机械学院). Presently, I'm working on a research project supervised by [Prof. Miao Li(李淼)](https://miaoli.github.io/). 
+I'm now pursuing a Bachelor's degree in Mechanical Engineering at the School of Power and Mechanical, Wuhan University(武汉大学动力与机械学院). Presently, I'm working on a research project supervised by [Prof. Miao Li(李淼)](https://miaoli.github.io/).
 My research interest has shifted from First-principles calculations in semiconductors to **Bio-inspired robot design, locomotion, robotic grasping and manipulation**. 
+
 I won the National Scholarship in 2021&2022 and was selected as one of the "top 10 students" in the School of Power and Mechanical.
+You can find my [CV](../Resume_RuijiaZhang.pdf) here.
 # 📝 Projects
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/Soft Hand.jpg' alt="sym" width="100%"></div></div>
@@ -58,7 +60,7 @@ I won the National Scholarship in 2021&2022 and was selected as one of the "top 
 
 [Bionic Robot Fish](https://www.sciencedirect.com/science/article/pii/S221137972300709X)
 
-09/2021-06/2022, Team Leader, Intelligent Manufacturing Lab, WHU
+09/2021-06/2022, Team Leader, supervised by Prof. Min Li, WHU
 
 **Ruijia Zhang**, Wenke Zhou, Zibin Nian, Ning Luo, Xiaoya He.
 
@@ -74,7 +76,7 @@ I won the National Scholarship in 2021&2022 and was selected as one of the "top 
 
 [Heat-Powered Vehicle](https://worldwide.espacenet.com/patent/search/family/079806938/publication/CN215513213U?q=CN%20215513213)
 
-09/2020-09/2021, Team Leader, Intelligent Manufacturing Lab, WHU
+09/2020-09/2021, Team Leader, supervised by Prof. Min Li, WHU
 
 **Ruijia Zhang**, Wenke Zhou, Zibin Nian
 
@@ -89,7 +91,7 @@ I won the National Scholarship in 2021&2022 and was selected as one of the "top 
 
 [Smart Wardrobe ——Klotski](http://openir.whu.edu.cn/AchievementDetail/VIP_a39cbc17-86b7-4185-87f8-ff844334f6c9)
 
-10/2021-11/2022, Team Member, Intelligent Manufacturing Lab, WHU
+10/2021-11/2022, Team Member, supervised by Prof. Min Li, WHU
 
 **Ruijia Zhang**, Zhihang Wei, Jingrun Cai, Haoming Chen, Xinyitian
 
