@@ -40,7 +40,7 @@ You can find my [CV](../Resume_RuijiaZhang.pdf) here.
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='videos/Ga2O3/β-Ga2O3.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='videos/Ga2O3/structure.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Modulating Electronic Properties of β-Ga2O3 by Strain Engineering](https://worldwide.espacenet.com/patent/search/family/081678703/publication/CN114537629A?q=CN%20114537629)
@@ -50,14 +50,12 @@ You can find my [CV](../Resume_RuijiaZhang.pdf) here.
 **Ruijia Zhang**, Min Li, Gai Wu, Lijie Li, Kang Liang & Wei Shen.
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Investigated the effect of strain on the structure and electronic properties of β-Ga2O3 using the GGA+U method based on density functional theory.
-- Implemented simulation calculations for bandgap and effective mass tunability using VASP and PWmat in Python.
-- Discovered an indirect-direct bandgap transition and electron mobility anisotropy in β-Ga2O3 semiconductor under strain, suggesting potential applications of strain engineering in modulating its electronic properties.
+- I investigated the effect of strain on the bandgap and effective mass tunability of β-Ga2O3 using the GGA+U method based on density functional theory. The indirect-direct bandgap transition and electron mobility anisotropy in β-Ga2O3 under strain were discovered, suggesting potential applications of strain engineering in modulating its electronic properties.
 </div>
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><video src="../videos/fish robot/underwater test.mp4"></video></div></div>
+<div class='paper-box'><div class='paper-box-video'><div><div class="badge">CVPR 2016</div><video src="../videos/fish robot/underwater test.mp4"></video></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Bionic Robot Fish](https://www.sciencedirect.com/science/article/pii/S221137972300709X)
@@ -66,9 +64,8 @@ You can find my [CV](../Resume_RuijiaZhang.pdf) here.
 
 **Ruijia Zhang**, Wenke Zhou, Zibin Nian, Ning Luo, Xiaoya He.
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
--  Double-joint Robotic fish driven by coupling propulsion mechanism, with functions including straightening, turning, sinking and floating, and autonomous underwater cruising.
--  established underwater experiments and CFD simulation to study the relationship between swimming speed and mechanism design/driving parameters.
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC)
+-  I designed a double-joint fish robot driven by a coupling propulsion mechanism, with functions including straightening, turning, sinking and floating, and autonomous underwater cruising. Underwater experiments and CFD simulation were established to study the relationship between swimming speed and mechanism design/driving parameters.
 
 </div>
 </div>
@@ -83,9 +80,8 @@ You can find my [CV](../Resume_RuijiaZhang.pdf) here.
 **Ruijia Zhang**, Wenke Zhou, Zibin Nian
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Designed a heat-powered vehicle using a Stirling engine as the power source and accomplished closed-loop obstacle avoidance trajectory with a purely mechanical structure.
-- Improved 50% superior trajectory accuracy by the fine-tuning mechanism and CNC machining.
-- Integrated body design to reduce size, costs, and assembly complexity.
+- I designed an integrated thermodynamic vehicle powered by the Stirling engine and completed the closed-loop obstacle avoidance trajectory with a purely mechanical structure. Through fine-tuning mechanisms and CNC machining, the superior trajectory accuracy is improved by 50%. We shattered the university record by winning the National Gold Award (1.43%).
+
 
 </div>
 </div>
