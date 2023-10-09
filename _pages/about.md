@@ -55,7 +55,7 @@ You can find my CV here: [CV](../Resume_RuijiaZhang.pdf).
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><video src="../videos/fish robot/Rendering.png"></video></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='videos/fish robot/Rendering.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Bionic Robot Fish](https://worldwide.espacenet.com/patent/search/family/081678703/publication/CN114537629A?q=CN%20114537629)
@@ -72,7 +72,7 @@ You can find my CV here: [CV](../Resume_RuijiaZhang.pdf).
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><video src="../videos/heat-powered vehicle/Car.jpg"></video></div></div><div class='paper-box-text' markdown="1">
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='videos/heat-powered vehicle/Car.jpg' alt="sym" width="100%"></div></div><div class='paper-box-text' markdown="1">
 
 [Heat-Powered Vehicle](https://worldwide.espacenet.com/patent/search/family/079806938/publication/CN215513213U?q=CN%20215513213)
 
@@ -88,7 +88,7 @@ You can find my CV here: [CV](../Resume_RuijiaZhang.pdf).
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><video src="../videos/smart wardrobe/physical display.png"></video></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='videos/smart wardrobe/physical display.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Smart Wardrobe ——Klotski](http://openir.whu.edu.cn/AchievementDetail/VIP_a39cbc17-86b7-4185-87f8-ff844334f6c9)
