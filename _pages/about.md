@@ -24,17 +24,7 @@ You can find my [CV](../Resume_RuijiaZhang.pdf) here.
 # 📝 Projects
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div>
-<iframe 
-src="https://youtu.be/s3UWrpGMP50" 
-scrolling="no" 
-border="0" 
-frameborder="no" 
-framespacing="0" 
-allowfullscreen="true" 
-height=300 
-width=500> 
-</iframe>
-</div></div>
+<img src='videos/soft hand/Soft Hand.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Robotic Soft Hand]
@@ -50,7 +40,7 @@ width=500>
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/β-Ga2O3.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='videos/Ga2O3/β-Ga2O3.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Modulating Electronic Properties of β-Ga2O3 by Strain Engineering](https://worldwide.espacenet.com/patent/search/family/081678703/publication/CN114537629A?q=CN%20114537629)
@@ -66,7 +56,7 @@ width=500>
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/Fish robot.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><video src="../videos/fish robot/underwater test.mp4"></video></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Bionic Robot Fish](https://www.sciencedirect.com/science/article/pii/S221137972300709X)
@@ -82,8 +72,7 @@ width=500>
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/Car.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><video src="../videos/heat-powered vehicle/heat-powered vehicle.mp4"></video></div></div><div class='paper-box-text' markdown="1">
 
 [Heat-Powered Vehicle](https://worldwide.espacenet.com/patent/search/family/079806938/publication/CN215513213U?q=CN%20215513213)
 
@@ -97,7 +86,7 @@ width=500>
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/wardrobe.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><video src="../videos/smart wardrobe/smart wardrobe.mp4"></video></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Smart Wardrobe ——Klotski](http://openir.whu.edu.cn/AchievementDetail/VIP_a39cbc17-86b7-4185-87f8-ff844334f6c9)
