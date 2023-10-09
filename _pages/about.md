@@ -33,7 +33,7 @@ You can find my [CV](../Resume_RuijiaZhang.pdf) here.
 
 **Ruijia Zhang**, Zhenyu Nie, Fuqiang Zhao.
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Project**]
 
 
 </div>
@@ -50,8 +50,9 @@ You can find my [CV](../Resume_RuijiaZhang.pdf) here.
 **Ruijia Zhang**, Min Li, Gai Wu, Lijie Li, Kang Liang & Wei Shen.
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Robotic fish driven by double-joint coupling mechanism.
-
+- Investigated the effect of strain on the structure and electronic properties of β-Ga2O3 using the GGA+U method based on density functional theory.
+- Implemented simulation calculations for bandgap and effective mass tunability using VASP and PWmat in Python.
+- Discovered an indirect-direct bandgap transition and electron mobility anisotropy in β-Ga2O3 semiconductor under strain, suggesting potential applications of strain engineering in modulating its electronic properties.
 </div>
 </div>
 
@@ -66,7 +67,8 @@ You can find my [CV](../Resume_RuijiaZhang.pdf) here.
 **Ruijia Zhang**, Wenke Zhou, Zibin Nian, Ning Luo, Xiaoya He.
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Robotic fish driven by double-joint coupling mechanism.
+-  Double-joint Robotic fish driven by coupling propulsion mechanism, with functions including straightening, turning, sinking and floating, and autonomous underwater cruising.
+-  established underwater experiments and CFD simulation to study the relationship between swimming speed and mechanism design/driving parameters.
 
 </div>
 </div>
@@ -81,7 +83,9 @@ You can find my [CV](../Resume_RuijiaZhang.pdf) here.
 **Ruijia Zhang**, Wenke Zhou, Zibin Nian
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Robotic fish driven by double-joint coupling mechanism.
+- Designed a heat-powered vehicle using a Stirling engine as the power source and accomplished closed-loop obstacle avoidance trajectory with a purely mechanical structure.
+- Improved 50% superior trajectory accuracy by the fine-tuning mechanism and CNC machining.
+- Integrated body design to reduce size, costs, and assembly complexity.
 
 </div>
 </div>
@@ -96,8 +100,8 @@ You can find my [CV](../Resume_RuijiaZhang.pdf) here.
 **Ruijia Zhang**, Zhihang Wei, Jingrun Cai, Haoming Chen, Xinyitian
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Robotic fish driven by double-joint coupling mechanism.
-
+- Improved a two-way loop procedure of the smart wardrobe based on PLC program control.
+- Optimized the intermittent transmission mechanism based on Adams dynamical simulation and SolidWorks Topology to eliminate the flexible impact and achieve lightweight design of the groove wheels.
 </div>
 </div>
 
