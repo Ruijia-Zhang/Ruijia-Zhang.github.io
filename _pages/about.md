@@ -60,7 +60,6 @@ Student Researcher, supervised by [Prof. Wei Shen](https://technology.whu.edu.cn
 </div>
 </div>
 
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='videos/fish robot/Rendering.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -79,8 +78,8 @@ Team Leader, supervised by Prof. Min Li, WHU
 </div>
 </div>
 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='videos/heat-powered vehicle/Car.jpg' alt="sym" width="100%"></div></div><div class='paper-box-text' markdown="1">
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='videos/heat-powered vehicle/Car.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
 [Heat-Powered Vehicle](https://worldwide.espacenet.com/patent/search/family/079806938/publication/CN215513213U?q=CN%20215513213)
 
@@ -98,8 +97,8 @@ Wenke Zhou, Zibin Nian
 </div>
 </div>
 
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='videos/smart wardrobe/physical display.png' alt="sym" width="100%"></div></div><div class='paper-box-text' markdown="1">
+
 
 [Smart Wardrobe ——Klotski](http://openir.whu.edu.cn/AchievementDetail/VIP_a39cbc17-86b7-4185-87f8-ff844334f6c9)
 
