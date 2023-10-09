@@ -49,7 +49,7 @@ You can find my [CV](../Resume_RuijiaZhang.pdf) here.
 
 **Ruijia Zhang**, Min Li, Gai Wu, Lijie Li, Kang Liang & Wei Shen.
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Project**](file:///E:/%E6%96%87%E4%BB%B6/prospect/portfolio/project/modulating%20electronic%20properties%20of%20%CE%B2-Ga2O3/Modulating%20electronic%20properties%20of%20%CE%B2-Ga2O3%20by%20strain%20engineering%20.pdf)
 - I investigated the effect of strain on the bandgap and effective mass tunability of β-Ga2O3 using the GGA+U method based on density functional theory. The indirect-direct bandgap transition and electron mobility anisotropy in β-Ga2O3 under strain were discovered, suggesting potential applications of strain engineering in modulating its electronic properties.
 </div>
 </div>
@@ -64,7 +64,7 @@ You can find my [CV](../Resume_RuijiaZhang.pdf) here.
 
 **Ruijia Zhang**, Wenke Zhou, Zibin Nian, Ning Luo, Xiaoya He.
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC)
+[**Project**](https://youtu.be/oTg_eVXxm2c)
 -  I designed a double-joint fish robot driven by a coupling propulsion mechanism, with functions including straightening, turning, sinking and floating, and autonomous underwater cruising. Underwater experiments and CFD simulation were established to study the relationship between swimming speed and mechanism design/driving parameters.
 
 </div>
@@ -79,8 +79,8 @@ You can find my [CV](../Resume_RuijiaZhang.pdf) here.
 
 **Ruijia Zhang**, Wenke Zhou, Zibin Nian
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- I designed an integrated thermodynamic vehicle powered by the Stirling engine and completed the closed-loop obstacle avoidance trajectory with a purely mechanical structure. Through fine-tuning mechanisms and CNC machining, the superior trajectory accuracy is improved by 50%. We shattered the university record by winning the National Gold Award (1.43%).
+[**Project**](https://youtu.be/gkrrsqVv6eA)
+- I designed and produced an integrated thermodynamic vehicle powered by the Stirling engine and completed the closed-loop obstacle avoidance trajectory with a purely mechanical structure. Through fine-tuning mechanisms and CNC machining, the trajectory accuracy is improved by 50%. We shattered the university record by winning the National Gold Award (1.43%).
 
 
 </div>
@@ -95,7 +95,7 @@ You can find my [CV](../Resume_RuijiaZhang.pdf) here.
 
 **Ruijia Zhang**, Zhihang Wei, Jingrun Cai, Haoming Chen, Xinyitian
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Project**](https://youtu.be/--K_LBozzOY)
 - Improved a two-way loop procedure of the smart wardrobe based on PLC program control.
 - Optimized the intermittent transmission mechanism based on Adams dynamical simulation and SolidWorks Topology to eliminate the flexible impact and achieve lightweight design of the groove wheels.
 </div>
