@@ -23,8 +23,7 @@ You can find my [CV](../Resume_RuijiaZhang.pdf) here.
 
 # 📝 Projects
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div>
-<img src='videos/soft hand/Soft Hand.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='videos/soft hand/Soft Hand.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Robotic Soft Hand]
@@ -56,7 +55,7 @@ You can find my [CV](../Resume_RuijiaZhang.pdf) here.
 </div>
 
 
-<div class='paper-box'><div class='paper-box-video'><div><div class="badge">CVPR 2016</div><video src="../videos/fish robot/underwater test.mp4"></video></div></div>
+<div class='paper-box'><div class='paper-box-video'><div><div class="badge">CVPR 2016</div><video src="../videos/fish robot/Rendering.png"></video></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Bionic Robot Fish](https://worldwide.espacenet.com/patent/search/family/081678703/publication/CN114537629A?q=CN%20114537629)
