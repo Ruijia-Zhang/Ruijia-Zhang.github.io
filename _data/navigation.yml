@@ -1,16 +1,16 @@
 # main links links
 main:
   - title: "About Me"
-    url: "/#-about-me"
+    url: "/about me"
 
   - title: "Publications"
-    url: "/#-publications-and-patents"
+    url: "/publications and patents"
 
   - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
+    url: "/honors and awards"
 
   - title: "Educations"
-    url: "/#-educations"
+    url: "/educations"
 
   - title: "Teaching Assistant"
-    url: "/#-teaching assistant"
+    url: "/teaching assistant"
