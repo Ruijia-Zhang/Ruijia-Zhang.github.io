@@ -29,7 +29,7 @@ You can find my CV here: [CV](../Resume_RuijiaZhang.pdf).
 <div class='paper-box'><div class='paper-box-image'><div><img src='videos/soft hand/Soft Hand.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[A tendon-driven soft hand for dexterous manipulation]
+[A tendon-driven soft hand for dexterous manipulation](https://miaoli.github.io/research/)
 
 08/2023-present
 
