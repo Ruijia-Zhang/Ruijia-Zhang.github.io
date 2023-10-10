@@ -22,7 +22,7 @@ I'm now pursuing a Bachelor's degree in Mechanical Engineering at the School of 
 I won the National Scholarship in 2021 and 2022 and was selected as one of the "Top 10 Students" in the School of Power and Mechanical Engineering.
 
 My research interests have shifted from First-principles calculations in semiconductors to **Bio-inspired robot design, locomotion, robotic grasping, and manipulation**. 
-You can find my CV here: [CV](../Resume_RuijiaZhang.pdf).
+You can find my CV here: [CV](Resume_RuijiaZhang.pdf).
 
 # 📝 Projectsdescription.png
 
