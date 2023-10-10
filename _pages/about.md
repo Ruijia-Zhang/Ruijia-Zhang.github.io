@@ -29,15 +29,16 @@ You can find my CV here: [CV](../Resume_RuijiaZhang.pdf).
 <div class='paper-box'><div class='paper-box-image'><div><img src='videos/soft hand/Soft Hand.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Robotic Soft Hand]
+[A tendon-driven soft hand for dexterous manipulation]
 
 08/2023-present
 
 Student Researcher, supervised by [Prof. Miao Li(李淼)](https://miaoli.github.io/), WHU
 
 **Ruijia Zhang**, Zhenyu Nie, Fuqiang Zhao.
-
-[**Project**]
+- We developed an anthropomorphic hand with flexible microstructure fingers capable of achieving controllable stiffness deformation, enabling effective and adaptive object grasping.
+- The synergy patterns were incorporated into our mechatronic hand system to replicate coordinated and ordered human hand motions observed during the grasp approach phase.
+- We propose a learning-based approach utilizing the finite element method (FEM) to model real-time inverse kinematics(IK) computation on highly nonlinear soft hand. 
 
 
 </div>
