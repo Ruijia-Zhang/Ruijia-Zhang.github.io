@@ -24,9 +24,9 @@ I won the National Scholarship in 2021 and 2022 and was selected as one of the "
 My research interests have shifted from First-principles calculations in semiconductors to **Bio-inspired robot design, locomotion, robotic grasping, and manipulation**. 
 You can find my CV here: [CV](../Resume_RuijiaZhang.pdf).
 
-# 📝 Projects
+# 📝 Projectsdescription.png
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='videos/soft hand/Soft Hand.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='videos/soft hand/description.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [A tendon-driven soft hand for dexterous manipulation](https://miaoli.github.io/research/)
