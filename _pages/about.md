@@ -145,5 +145,5 @@ Zhenyu Nie, **Ruijia Zhang**, Fuqiang Zhao.
 - *2017.09 - 2020.06*, Miangyang Middle School, Sichuan
 
 # 💻 Teaching Assistant
-- *2022.06 - 2022.07*, Industrial Training Course, WHU
-- *2021.09 - 2022.02*, Mechanical Vehicle Training Camp, WHU
+- *2022.06 - 2022.07*, Industrial Training Course, WHU——Prepared instruction materials and teach CNC milling skills to undergraduates.
+- *2021.09 - 2022.02*, Mechanical Vehicle Training Camp, WHU——Trained students in engineering skills, focusing on mechanical vehicle design, manufacturing, and tuning.
