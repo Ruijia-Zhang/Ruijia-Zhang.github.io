@@ -17,12 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 # 🤵🏻 About Me
-I'm now pursuing a Bachelor's degree in Mechanical Engineering at the School of Power and Mechanical Engineering, Wuhan University(武汉大学动力与机械学院). Presently, I'm working on a research project supervised by [Prof. Miao Li(李淼)](https://miaoli.github.io/). 
+I am currently focusing on **Bio-inspired robot design, locomotion, robotic grasping, and manipulation**, as I pursue my Bachelor's degree in Mechanical Engineering at the School of Power and Mechanical Engineering, Wuhan University. Presently, I'm working on a research project supervised by [Prof. Miao Li(李淼)](https://miaoli.github.io/). 
 
-I won the National Scholarship in 2021 and 2022 and was selected as one of the "Top 10 Students" in the School of Power and Mechanical Engineering.
+I've received the National Scholarship twice, in 2021 and 2022, and was recognized as one of the "Top 10 Students" in my school. 
 
-My research interests have shifted from First-principles calculations in semiconductors to **Bio-inspired robot design, locomotion, robotic grasping, and manipulation**. 
-You can find my CV here: [CV](Resume_RuijiaZhang.pdf).
+My research journey began with First-principles calculations in semiconductors and has evolved to the current robotics focus, as I gravitated towards a deep fascination with exploring advanced and novel robotic mechanisms that hold the potential for real-world adoption. You can find my CV here: [CV](Resume_RuijiaZhang.pdf).
 
 # 📝 Projects
 
@@ -31,10 +30,11 @@ You can find my CV here: [CV](Resume_RuijiaZhang.pdf).
 
 [A tendon-driven soft hand for dexterous manipulation](https://miaoli.github.io/research/)
 
-08/2023-present
+**Date**: 08/2023-present
 
-Student Researcher, supervised by [Prof. Miao Li(李淼)](https://miaoli.github.io/), WHU
+**Role**: Student Researcher, supervised by [Prof. Miao Li(李淼)](https://miaoli.github.io/), WHU
 
+**Description**: 
 Zhenyu Nie, **Ruijia Zhang**, Fuqiang Zhao.
 - We developed an anthropomorphic hand with flexible microstructure fingers capable of achieving controllable stiffness deformation, enabling effective and adaptive object grasping.
 - The synergy patterns were incorporated into our mechatronic hand system to replicate coordinated and ordered human hand motions observed during the grasp approach phase.
@@ -50,13 +50,13 @@ Zhenyu Nie, **Ruijia Zhang**, Fuqiang Zhao.
 
 [Modulating Electronic Properties of β-Ga2O3 by Strain Engineering](https://www.sciencedirect.com/science/article/pii/S221137972300709X)
 
-06/2022-02/2023
+**Date**: 06/2022-02/2023
 
-Student Researcher, supervised by [Prof. Wei Shen](https://technology.whu.edu.cn/info/1016/1914.htm), WHU
+**Role**: Student Researcher, supervised by [Prof. Wei Shen](https://technology.whu.edu.cn/info/1016/1914.htm), WHU
 
 **Ruijia Zhang**, Min Li, Gai Wu, Lijie Li, Kang Liang, Wei Shen.
 
-[**Project**](file:///E:/%E6%96%87%E4%BB%B6/prospect/portfolio/project/modulating%20electronic%20properties%20of%20%CE%B2-Ga2O3/Modulating%20electronic%20properties%20of%20%CE%B2-Ga2O3%20by%20strain%20engineering%20.pdf)
+[**Description**]
 - I investigated the effect of strain on the bandgap and effective mass tunability of β-Ga2O3 using the GGA+U method based on density functional theory.
 - The indirect-direct bandgap transition and electron mobility anisotropy in β-Ga2O3 under strain were discovered, suggesting potential applications of strain engineering in modulating its electronic properties.
 </div>
@@ -67,13 +67,15 @@ Student Researcher, supervised by [Prof. Wei Shen](https://technology.whu.edu.cn
 
 [Bionic Robot Fish](https://worldwide.espacenet.com/patent/search/family/081678703/publication/CN114537629A?q=CN%20114537629)
 
-09/2021-06/2022
+**Date**: 09/2021-06/2022
 
-Team Leader, supervised by Prof. Min Li, WHU
+**Role**: Team Leader, supervised by Prof. Min Li, WHU
 
 **Ruijia Zhang**, Wenke Zhou, Zibin Nian, Ning Luo, Xiaoya He.
 
-[**Project**](https://youtu.be/oTg_eVXxm2c)
+[**video**](https://youtu.be/oTg_eVXxm2c)
+
+[**Description**]
 -  I designed a double-joint fish robot driven by a coupling propulsion mechanism, with functions including straightening, turning, sinking and floating, and autonomous underwater cruising.
 -  Underwater experiments and CFD simulation were established to study the relationship between swimming speed and mechanism design/driving parameters.
 
@@ -85,13 +87,15 @@ Team Leader, supervised by Prof. Min Li, WHU
 
 [Heat-Powered Vehicle](https://worldwide.espacenet.com/patent/search/family/079806938/publication/CN215513213U?q=CN%20215513213)
 
-09/2020-09/2021
+**Date**: 09/2020-09/2021
 
-Team Leader, supervised by Prof. Min Li, WHU
+**Role**: Team Leader, supervised by Prof. Min Li, WHU
 
 **Ruijia Zhang**, Wenke Zhou, Zibin Nian
 
-[**Project**](https://youtu.be/gkrrsqVv6eA)
+[**video**](https://youtu.be/gkrrsqVv6eA)
+
+[**Description**]
 - I designed and produced an integrated thermodynamic vehicle powered by the Stirling engine and completed the closed-loop obstacle avoidance trajectory with a purely mechanical structure. Through fine-tuning mechanisms and CNC machining, the trajectory accuracy is improved by 50%.
 - Our team shattered the university record by winning the National Gold Award (1.43%).
 - I served as a teaching assistant in a boot camp based on this project, training students in basic engineering skills.
@@ -103,13 +107,15 @@ Team Leader, supervised by Prof. Min Li, WHU
 
 [Smart Wardrobe ——Klotski](http://openir.whu.edu.cn/AchievementDetail/VIP_a39cbc17-86b7-4185-87f8-ff844334f6c9)
 
-10/2021-11/2022
+**Date**: 10/2021-11/2022
 
-Team Leader, supervised by Prof. Min Li, WHU
+**Role**: Team Leader, supervised by Prof. Min Li, WHU
 
 **Ruijia Zhang**, Zhihang Wei, Jingrun Cai, Haoming Chen, Xinyitian
 
-[**Project**](https://youtu.be/--K_LBozzOY)
+[**video**](https://youtu.be/--K_LBozzOY)
+
+[**Description**]
 - I improved a two-way loop procedure of the smart wardrobe based on PLC program control.
 - I optimized the intermittent transmission mechanism based on Adams dynamical simulation and SolidWorks Topology to eliminate the flexible impact and achieve the lightweight design of the groove wheels.
 
