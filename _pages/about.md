@@ -21,7 +21,9 @@ I am currently focusing on **Bio-inspired robot design, locomotion, robotic gras
 
 I've received the National Scholarship twice, in 2021 and 2022, and was recognized as one of the "Top 10 Students" in my school. 
 
-My research journey began with First-principles calculations in semiconductors and has evolved to the current robotics focus, as I gravitated towards a deep fascination with exploring advanced and novel robotic mechanisms that hold the potential for real-world adoption. You can find my CV here: [CV](Resume_RuijiaZhang.pdf).
+My research journey began with First-principles calculations in semiconductors and has evolved to the current robotics focus, as I gravitated towards a deep fascination with exploring advanced and novel robotic mechanisms that hold the potential for real-world adoption. 
+
+You can find my CV here: [CV](Resume_RuijiaZhang.pdf).
 
 # 📝 Projects
 
