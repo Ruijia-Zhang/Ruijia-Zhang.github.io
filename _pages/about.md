@@ -36,8 +36,9 @@ You can find my CV here: [CV](Resume_RuijiaZhang.pdf).
 
 **Role**: Student Researcher, supervised by [Prof. Miao Li(李淼)](https://miaoli.github.io/), WHU
 
+**Ruijia Zhang**, Zhenyu Nie, Fuqiang Zhao.
+
 **Description**: 
-Zhenyu Nie, **Ruijia Zhang**, Fuqiang Zhao.
 - We developed an anthropomorphic hand with flexible microstructure fingers capable of achieving controllable stiffness deformation, enabling effective and adaptive object grasping.
 - The synergy patterns were incorporated into our mechatronic hand system to replicate coordinated and ordered human hand motions observed during the grasp approach phase.
 - We propose a learning-based approach utilizing the finite element method (FEM) to model real-time inverse kinematics(IK) computation on highly nonlinear soft hand. 
