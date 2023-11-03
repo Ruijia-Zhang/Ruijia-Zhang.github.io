@@ -59,7 +59,7 @@ You can find my CV here: [CV](Resume_RuijiaZhang.pdf).
 
 **Ruijia Zhang**, Min Li, Gai Wu, Lijie Li, Kang Liang, Wei Shen.
 
-[**Description**]
+**Description**
 - I investigated the effect of strain on the bandgap and effective mass tunability of β-Ga2O3 using the GGA+U method based on density functional theory.
 - The indirect-direct bandgap transition and electron mobility anisotropy in β-Ga2O3 under strain were discovered, suggesting potential applications of strain engineering in modulating its electronic properties.
 </div>
@@ -78,7 +78,7 @@ You can find my CV here: [CV](Resume_RuijiaZhang.pdf).
 
 [**video**](https://youtu.be/oTg_eVXxm2c)
 
-[**Description**]
+**Description**
 -  I designed a double-joint fish robot driven by a coupling propulsion mechanism, with functions including straightening, turning, sinking and floating, and autonomous underwater cruising.
 -  Underwater experiments and CFD simulation were established to study the relationship between swimming speed and mechanism design/driving parameters.
 
@@ -98,7 +98,7 @@ You can find my CV here: [CV](Resume_RuijiaZhang.pdf).
 
 [**video**](https://youtu.be/gkrrsqVv6eA)
 
-[**Description**]
+**Description**
 - I designed and produced an integrated thermodynamic vehicle powered by the Stirling engine and completed the closed-loop obstacle avoidance trajectory with a purely mechanical structure. Through fine-tuning mechanisms and CNC machining, the trajectory accuracy is improved by 50%.
 - Our team shattered the university record by winning the National Gold Award (1.43%).
 - I served as a teaching assistant in a boot camp based on this project, training students in basic engineering skills.
@@ -118,7 +118,7 @@ You can find my CV here: [CV](Resume_RuijiaZhang.pdf).
 
 [**video**](https://youtu.be/--K_LBozzOY)
 
-[**Description**]
+**Description**
 - I improved a two-way loop procedure of the smart wardrobe based on PLC program control.
 - I optimized the intermittent transmission mechanism based on Adams dynamical simulation and SolidWorks Topology to eliminate the flexible impact and achieve the lightweight design of the groove wheels.
 
