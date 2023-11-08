@@ -145,7 +145,7 @@ You can find my CV here: [CV](Resume_RuijiaZhang.pdf).
 
 # 📖 Educations
 - *2020.06 - 2024.09*, Undergraduate, Wuhan University, Hubei 
-- *2017.09 - 2020.06*, Miangyang Middle School, Sichuan
+- *2017.09 - 2020.06*, Mianyang Middle School, Sichuan
 
 # 💻 Teaching Assistant
 - *2022.06 - 2022.07*, Industrial Training Course, WHU——Prepared instruction materials and teach CNC milling skills to undergraduates.
