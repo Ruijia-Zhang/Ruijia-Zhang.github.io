@@ -72,7 +72,7 @@ You can find my CV here: [CV](Resume_RuijiaZhang.pdf).
 
 **Date**: 09/2021-06/2022
 
-**Role**: Team Leader, supervised by Prof. Min Li, WHU
+**Role**: Team Leader, supervised by Prof. Deng Li and Prof. Min Li, WHU
 
 **Ruijia Zhang**, Wenke Zhou, Zibin Nian, Ning Luo, Xiaoya He.
 
@@ -92,7 +92,7 @@ You can find my CV here: [CV](Resume_RuijiaZhang.pdf).
 
 **Date**: 09/2020-09/2021
 
-**Role**: Team Leader, supervised by Prof. Min Li, WHU
+**Role**: Team Leader, supervised by Prof. Xiaosun Wang and Prof. Min Li, WHU
 
 **Ruijia Zhang**, Wenke Zhou, Zibin Nian
 
