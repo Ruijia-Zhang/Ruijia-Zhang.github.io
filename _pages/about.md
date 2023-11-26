@@ -133,7 +133,7 @@ You can find my CV here: [CV](Resume_RuijiaZhang.pdf).
 - [Heat energy driving vehicle supported by vertical plate](https://worldwide.espacenet.com/patent/search/family/079806938/publication/CN215513213U?q=CN%20215513213), **Ruijia Zhang**, Min Li, Xusheng Cheng, Kailang She. CN 215513213 U, 2022
 
 # 🎖 Honors and Awards
-- *2023.04* The First Prize, Inno Innovation Achievement Award, WHU (6 in the whole school)
+- *2023.04* The First Prize, Inno Innovation Achievement Award, WHU (5th in the whole school)
 - *2022.10* National Scholarship (Undergraduate) (Top 1%) 
 - *2022.09* The First Prize, the 16th China Intelligent Manufacturing Challenge
 - *2022.07* National Second Prize, the 5th National College Intelligent Robot Creative Competition
@@ -148,5 +148,5 @@ You can find my CV here: [CV](Resume_RuijiaZhang.pdf).
 - *2017.09 - 2020.06*, Mianyang Middle School, Sichuan
 
 # 💻 Teaching Assistant
-- *2022.06 - 2022.07*, Industrial Training Course, WHU——Prepared instruction materials and teach CNC milling skills to undergraduates.
+- *2022.06 - 2022.07*, Industrial Training Course, WHU——Prepared instruction materials and taught CNC milling skills to undergraduates.
 - *2021.09 - 2022.02*, Mechanical Vehicle Training Camp, WHU——Trained students in engineering skills, focusing on mechanical vehicle design, manufacturing, and tuning.
