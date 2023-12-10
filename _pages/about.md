@@ -53,7 +53,7 @@ You can find my CV here: [CV](Resume_RuijiaZhang.pdf).
 
 [Modulating Electronic Properties of β-Ga2O3 by Strain Engineering](https://www.sciencedirect.com/science/article/pii/S221137972300709X)
 
-**Date**: 06/2022-02/2023
+**Date**: 06/2022-07/2023
 
 **Role**: Student Researcher, supervised by [Prof. Wei Shen](https://technology.whu.edu.cn/info/1016/1914.htm), WHU
 
