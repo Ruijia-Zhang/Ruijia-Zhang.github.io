@@ -134,11 +134,11 @@ You can find my CV here: [CV](Resume_RuijiaZhang.pdf).
 
 # 🎖 Honors and Awards
 - *2023.10* The First Prize, Liudaoyu Creative Learning Award, WHU
-- *2023.10* Professional A-level Scholarship & Merit Student, WHU
+- *2023.10* Professional A-level Scholarship, WHU
 - *2023.10* Outstanding Volunteer, 7th International Conference of Bionic Engineering. 
 - *2023.04* The First Prize, 1st Inno Innovation Achievement Award, WHU (5th in the whole school)
 - *2022.10* National Scholarship (Undergraduate) (Top 1%)
-- *2022.10* Professional A-level Scholarship & Merit Student, WHU
+- *2022.10* Professional A-level Scholarship, WHU
 - *2022.09* The First Prize, 16th China Intelligent Manufacturing Challenge
 - *2022.07* National Second Prize, 5th National College Intelligent Robot Creative Competition
 - *2022.05* The First Prize (team leader), 10th National College Mechanical Innovation Design Competition
@@ -146,7 +146,7 @@ You can find my CV here: [CV](Resume_RuijiaZhang.pdf).
 - *2022.04* “Advanced Individual in Scientific and Technological Innovation”, School of Power and Mechanical Engineering, WHU
 - *2021.11* National Gold Award (team leader, award rate 1.43%), 7th Chinese Engineering and Innovation Competition
 - *2021.10* National Scholarship (Undergraduate) (Top 1%)
-- *2021.10* Professional A-level Scholarship & Merit Student, WHU
+- *2021.10* Professional A-level Scholarship, WHU
 - *2019.09* The Second Prize, the 36th Chinese Physics Olympiad
 
 # 📖 Educations
