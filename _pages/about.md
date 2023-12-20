@@ -1,4 +1,4 @@
-![image](https://github.com/Ruijia-Zhang/Ruijia-Zhang.github.io/assets/75174813/ed8f1e66-a27d-41a3-9d82-d65af8fd81dc)---
+---
 permalink: /
 title: ""
 excerpt: ""
