@@ -23,7 +23,7 @@ I've received the National Scholarship twice, in 2021 and 2022, and was recogniz
 
 My research journey began with First-principles calculations in semiconductors and has evolved to the current robotics focus, as I gravitated towards a deep fascination with exploring advanced and novel robotic mechanisms that hold the potential for real-world adoption. 
 
-You can find my CV here: [CV](Resume_RuijiaZhang.pdf).
+You can find my CV here: [CV](Resume_Ruijia Zhang.pdf).
 
 # ⚙️ Projects
 
