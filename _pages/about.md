@@ -1,4 +1,4 @@
----
+![image](https://github.com/Ruijia-Zhang/Ruijia-Zhang.github.io/assets/75174813/ed8f1e66-a27d-41a3-9d82-d65af8fd81dc)---
 permalink: /
 title: ""
 excerpt: ""
@@ -16,7 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-# 🤵🏻 About Me
+# 👩‍🎓 About Me
 I am currently focusing on **Bio-inspired robot design, locomotion, robotic grasping, and manipulation**, as I pursue my Bachelor's degree in Mechanical Engineering at the School of Power and Mechanical Engineering, Wuhan University. Presently, I'm working on a research project supervised by [Prof. Miao Li(李淼)](https://miaoli.github.io/). 
 
 I've received the National Scholarship twice, in 2021 and 2022, and was recognized as one of the "Top 10 Students" in my school. 
@@ -25,7 +25,7 @@ My research journey began with First-principles calculations in semiconductors a
 
 You can find my CV here: [CV](Resume_RuijiaZhang.pdf).
 
-# 📝 Projects
+# ⚙️ Projects
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='videos/soft hand/description.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -147,6 +147,6 @@ You can find my CV here: [CV](Resume_RuijiaZhang.pdf).
 - *2020.06 - 2024.09*, Undergraduate, Wuhan University, Hubei 
 - *2017.09 - 2020.06*, Mianyang Middle School, Sichuan
 
-# 💻 Teaching Assistant
+# 👩‍🏫 Teaching Assistant
 - *2022.06 - 2022.07*, Industrial Training Course, WHU——Prepared instruction materials and taught CNC milling skills to undergraduates.
 - *2021.09 - 2022.02*, Mechanical Vehicle Training Camp, WHU——Trained students in engineering skills, focusing on mechanical vehicle design, manufacturing, and tuning.
