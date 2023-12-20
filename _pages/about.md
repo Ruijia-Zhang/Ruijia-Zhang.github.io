@@ -150,7 +150,7 @@ You can find my CV here: [CV](Resume_RuijiaZhang.pdf).
 - *2019.09* The Second Prize, the 36th Chinese Physics Olympiad
 
 # 📖 Educations
-- *2020.06 - 2024.09*, Undergraduate, Wuhan University, Hubei 
+- *2020.09 - 2024.06*, Undergraduate, Wuhan University, Hubei 
 - *2017.09 - 2020.06*, Mianyang Middle School, Sichuan
 
 # 👩‍🏫 Teaching Assistant
