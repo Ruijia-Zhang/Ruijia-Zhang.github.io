@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 # 👩‍🎓 About Me
-I am currently focusing on **mechanical intelligence in robot manipulation**, as I pursue my Ph.D. degree in Electronic and Computer Engineering at Hong Kong University of Science and Technology. Presently, I'm working on a research project supervised by [Prof. Yajing Shen](https://ece.hkust.edu.hk/eeyajing). 
+I am currently focusing on **mechanical intelligence in robot manipulation**, as I pursue my Ph.D. degree in Electronic and Computer Engineering at Hong Kong University of Science and Technology, supervised by [Prof. Yajing Shen](https://ece.hkust.edu.hk/eeyajing). 
 
 You can find my CV here: [CV](CV_RuijiaZhang.pdf).
 
