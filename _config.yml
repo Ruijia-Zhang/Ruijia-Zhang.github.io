@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Ruijia Zhang"
-description              : "Focusing on bio-inspired robotic design and control"
+description              : "Focusing on mechanical intelligence in robot manipulation"
 repository               : "husky1900/rheazhang.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Ruijia Zhang"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Major in Mechanical Engineering<br>Wuhan Universit(WHU), School of Power and Mechanical Engineering"
-  location         : "Hubei, China"
+  bio              : "Major in Electronic and Computer Engineering<br>Hong Kong University of Science and Technology(HKUST)"
+  location         : "Hong Kong, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=7zzM73MAAAAJ&hl=en"
-  email            : "zhangruijia12@gmail.com"
+  email            : "rzhangdk@connect.ust.hk"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
