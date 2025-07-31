@@ -126,13 +126,20 @@ You can find my CV here: [CV](CV_RuijiaZhang.pdf).
 </div>
 
 
-# 📝 Publications and Patents
-- [Modulating electronic properties of β-Ga2O3 by strain engineering](https://www.sciencedirect.com/science/article/pii/S221137972300709X), **Ruijia Zhang**, Min Li, Gai Wu, Lijie Li, Kang Liang & Wei Shen, **Results in Physics 2023**
-- [Design and research of intermittent transmission mechanism based on curved groove](https://kns.cnki.net/kcms2/article/abstract?v=PhqKDHt8vRAb-KGL_-szYL1TNuSMiQRseq943SVNlzoJuQaZ6Dz6FWG7PV7rJgRKtFP3UD9b1_SmIOzUQAi811HN5piyRHNKNNgTL8VqtUGEQ9sE0dctJc_YNEiMwORZct1acnQ7rFXoQN2Vq8xu2itsJswRA4nJ&uniplatform=NZKPT&language=CHS), Min Li, Xiaoqiao Chen, Fenglian Song, Wenke Zhou, **Ruijia Zhang**, **Journal of Wuhan University: Engineering Science Edition 2022**
+# 📝 Publications and Presentations
+- [Ion Gel-Based Temperature Sensing Film for Soft Tactile Sensors], presentation, **IEEE-NEMS** (2025)
+- [Robotic anchoring system with two locomotion modes for preoperative localization of colorectal cancer](https://ieeexplore.ieee.org/document/10907543), Jiale Wang, Hao Ren, Liu Yang, Haoxiang Zhao, **Ruijia Zhang**, Yajing Shen, **IEEE-Robio** (2024)
+- [Towards Understanding Of Human Cervical Spine With EMG Signal](https://ieeexplore.ieee.org/abstract/document/10907364), Yuanyuan He, Weihong Pan, **Ruijia Zhang**, Miao Li, **IEEE-Robio** (2024)
+- [Design of a Double-joint Robotic Fish Using a Composite Linkage](https://ieeexplore.ieee.org/document/10673025), **Ruijia Zhang**, Wenke Zhou, Min Li, Miao Li, Miao Li, **IEEE-CIS-RAM** (2024)
+- [Modulating electronic properties of β-Ga2O3 by strain engineering](https://www.sciencedirect.com/science/article/pii/S221137972300709X), **Ruijia Zhang**, Min Li, Gai Wu, Lijie Li, Kang Liang & Wei Shen, **Results in Physics** (2023)
+- [Design and research of intermittent transmission mechanism based on curved groove](https://kns.cnki.net/kcms2/article/abstract?v=PhqKDHt8vRAb-KGL_-szYL1TNuSMiQRseq943SVNlzoJuQaZ6Dz6FWG7PV7rJgRKtFP3UD9b1_SmIOzUQAi811HN5piyRHNKNNgTL8VqtUGEQ9sE0dctJc_YNEiMwORZct1acnQ7rFXoQN2Vq8xu2itsJswRA4nJ&uniplatform=NZKPT&language=CHS), Min Li, Xiaoqiao Chen, Fenglian Song, Wenke Zhou, **Ruijia Zhang**, **Journal of Wuhan University: Engineering Science Edition** (2022)
+
+# 📝 Patents
 - [Tail fin propelled autonomous swimming bionic robotic fish based on composite connecting rod mechanism](https://worldwide.espacenet.com/patent/search/family/081678703/publication/CN114537629A?q=CN%20114537629), **Ruijia Zhang**, Min Li, Wenke Zhou, Zibin Nian, Ning Luo & Xiaoya He. CN 114537629 A, 2023
 - [Heat energy driving vehicle supported by vertical plate](https://worldwide.espacenet.com/patent/search/family/079806938/publication/CN215513213U?q=CN%20215513213), **Ruijia Zhang**, Min Li, Xusheng Cheng, Kailang She. CN 215513213 U, 2022
 
 # 🎖 Honors and Awards
+- *2024.04* Hong Kong PHD Fellowship Scheme 2024/25, Hong Kong
 - *2023.10* The First Prize, Liudaoyu Creative Learning Award, WHU
 - *2023.10* Professional A-level Scholarship, WHU
 - *2023.10* Outstanding Volunteer, 7th International Conference of Bionic Engineering. 
@@ -150,9 +157,11 @@ You can find my CV here: [CV](CV_RuijiaZhang.pdf).
 - *2019.09* The Second Prize, the 36th Chinese Physics Olympiad
 
 # 📖 Educations
+- *2024.09 - present*, Ph.D. candidate, Hong Kong University of Science and Technology, Hong Kong
 - *2020.09 - 2024.06*, Undergraduate, Wuhan University, Hubei 
 - *2017.09 - 2020.06*, Mianyang Middle School, Sichuan
 
 # 👩‍🏫 Teaching Assistant
+- *2024-25 SPRING*, ELEC3200, HKUST——System Modeling, Analysis and Control.
 - *2022.06 - 2022.07*, Industrial Training Course, WHU——Prepared instruction materials and taught CNC milling skills to undergraduates.
 - *2021.09 - 2022.02*, Mechanical Vehicle Training Camp, WHU——Trained students in engineering skills, focusing on mechanical vehicle design, manufacturing, and tuning.
