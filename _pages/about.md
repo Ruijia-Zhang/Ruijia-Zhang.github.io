@@ -17,11 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 # 👩‍🎓 About Me
-I am currently focusing on **Bio-inspired robot design, grasping, manipulation, and locomotion**, as I pursue my Bachelor's degree in Mechanical Engineering at the School of Power and Mechanical Engineering, Wuhan University. Presently, I'm working on a research project supervised by [Prof. Miao Li(李淼)](https://miaoli.github.io/). 
-
-I've received the National Scholarship twice, in 2021 and 2022, and was recognized as one of the "Top 10 Students" in my school. 
-
-My research journey began with First-principles calculations in semiconductors and has evolved to the current robotics focus, as I gravitated towards a deep fascination with exploring advanced and novel robotic mechanisms that hold the potential for real-world adoption. 
+I am currently focusing on **mechanical intelligence in robot manipulation**, as I pursue my Ph.D. degree in Electronic and Computer Engineering at Hong Kong University of Science and Technology. Presently, I'm working on a research project supervised by [Prof. Yajing Shen](https://ece.hkust.edu.hk/eeyajing). 
 
 You can find my CV here: [CV](CV_RuijiaZhang.pdf).
 
