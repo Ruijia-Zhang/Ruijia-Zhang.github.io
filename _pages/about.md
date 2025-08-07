@@ -27,7 +27,7 @@ I am currently focusing on **mechanical intelligence in robot manipulation**, as
 
 [A tendon-driven soft hand for dexterous manipulation](https://miaoli.github.io/research/)
 
-**Date**: 08/2023-present
+**Date**: 08/2023-07/2024
 
 **Role**: Student Researcher, supervised by [Prof. Miao Li(李淼)](https://miaoli.github.io/), WHU
 
